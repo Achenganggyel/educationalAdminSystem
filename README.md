@@ -1,0 +1,2 @@
+# educationalAdminSystem
+基于开源教务系统项目的升级版本
